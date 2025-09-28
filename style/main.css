@@ -1,0 +1,11 @@
+/* Simple minimal styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background-color: #fafafa;
+  color: #333;
+}
+
+h1 {
+  color: #b22222; /* deep red */
+}
