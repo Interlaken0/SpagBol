@@ -1,6 +1,15 @@
-# SpagBol
+# SpagBol 
 
 A simple DOM-based recipe project for practicing JavaScript objects, loops, and DOM manipulation.
+
+---
+
+## Tech Stack
+- **HTML5** – structure of the page  
+- **CSS3** – basic styling for readability  
+- **JavaScript (ES6)** – objects, loops, DOM manipulation  
+- **VS Code + Live Server** – development environment  
+- **Git & GitHub** – version control and project hosting  
 
 ---
 
@@ -38,3 +47,15 @@ The recipe is displayed neatly in the browser. Ingredients and directions can be
 
 **Impact**  
 This shows understanding of JavaScript fundamentals (objects, loops, DOM) and gives a foundation for more complex dynamic projects like task trackers or recipe books.
+
+---
+
+## Screenshots
+
+### Recipe Page Output  
+This is the final rendered recipe displayed in the browser using HTML, CSS, and JavaScript DOM manipulation.  
+- Shows the recipe title and servings.  
+- Ingredients and directions are dynamically generated with loops.  
+- The custom method `letsCook()` outputs the “I’m hungry! Let’s cook…” message at the bottom.  
+
+![Recipe Page Output](./RecipePageOutput.png)
